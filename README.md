@@ -59,7 +59,7 @@ PointNetGPD is an end-to-end grasp evaluation model to address the challenging p
 
     ```bash
     cd ~/catkin_ws/src
-    git clone https://github.com/Iane14093051/RealSense-point_cloud_process.git
+    git clone https://github.com/hsylin/RealSense.git
     catkin build
     ```
 
