@@ -1,16 +1,14 @@
-# Point-Cloud-Grasp-Model-for-Robotics
+# PointNetGPD: Detecting Grasp Configurations from Point Sets
 
 ## Acknowledgements
 This code is based on the original implementation by **[Hongzhuo Liang](https://github.com/lianghongzhuo/PointNetGPD)** et al., as described in their paper:
 
 **Paper Title**: [PointNetGPD: Detecting Grasp Configurations from Point Sets](https://arxiv.org/pdf/1809.06267)
 
-I have made some minor adjustments to the original implementation.
+I have made some minor adjustments to the original implementation to meet the task requirements.
 
 ***
 ## **Introduction**
-
-PointNetGPD: Detecting Grasp Configurations from Point Sets
 
 PointNetGPD is an end-to-end grasp evaluation model to address the challenging problem of localizing robot grasp configurations directly from the point cloud.
 
